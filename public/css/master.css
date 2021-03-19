@@ -7,3 +7,7 @@
 .main-color {
     background-color: brown;
 }
+.cart-link .cart {
+    text-decoration: none;
+    margin-right: 15px;
+}

@@ -28,8 +28,8 @@
             <button class="btn btn-outline-success" type="submit">Search</button>
         </form>
       </ul>
-      <div class="d-flex">
-        <a href="#">Cart(0)</a>
+      <div class="d-flex cart-link">
+        <a class='cart' href="#">Cart(0)</a>
       </div>
     </div>
   </div>
