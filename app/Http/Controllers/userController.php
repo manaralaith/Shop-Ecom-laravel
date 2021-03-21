@@ -7,7 +7,7 @@ use App\Models\User;
 use Illuminate\Support\Facades\Hash;
 
 
-class userController extends Controller
+class UserController extends Controller
 {
     //
     function login(Request $req) {

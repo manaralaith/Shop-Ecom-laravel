@@ -1,3 +1,6 @@
-<div class="card-footer">
+
+
+
+<div class="card-footer clearfix">
     Card footer
-  </div>
+</div>

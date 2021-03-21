@@ -7,7 +7,35 @@
 .main-color {
     background-color: brown;
 }
+.cart-link {
+    margin-right: 65px;
+}
 .cart-link .cart {
     text-decoration: none;
-    margin-right: 15px;
 }
+img.slider-img {
+    height: 400px !important;
+}
+.carousel-control-next-icon, .carousel-control-prev-icon {
+    background-color: rgb(36, 34, 34);
+}
+.carousel-caption {
+    background-color: #0000004f;
+}
+.trending-wrapper {
+    margin-top: 55px;
+    text-align: center;
+}
+.trending-wrapper .treding-content {
+    height: 178px;
+    width: 126px;
+    display: inline-block;
+    margin-left: 107px;
+}
+.detail-page {
+    height: 600px;
+}
+.search-box {
+    width: 300px;
+}
+
